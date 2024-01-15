@@ -11,7 +11,7 @@ description : "This is meta description"
 
 ### STEP-1 : Hugo installation
 
-Check this link below for install hugo on your computer.
+Check this install hugo on your computer.
 [hugo install documentation](https://gohugo.io/getting-started/installing/)
 
 ### STEP-2 : Create your project
